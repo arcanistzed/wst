@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "NAME",
   "title": " ",
   "description": " ",
+=======
+  "name": "wst",
+  "title": "World Smiths Toolkit",
+  "description": "A toolkit for use in World Smiths products",
+>>>>>>> 0222a82 (feat: upload tinymce mods)
   "version": "This is auto replaced",
   "manifestPlusVersion": "1.2.0",
   "minimumCoreVersion": "0.7.9",
@@ -17,6 +23,7 @@
     }
   ],
   "scripts": [
+<<<<<<< HEAD
     "scripts/module.js"
   ],
   "styles": [
@@ -31,14 +38,34 @@
   ],
   "keywords": [
     ""
+=======
+    "scripts/ws.js"
+  ],
+  "styles": [
+    "styles/ws.css"
+  ],
+  "keywords": [
+    "journals",
+    "TinyMCE",
+    "custom",
+    "styles",
+    "world smiths"
+>>>>>>> 0222a82 (feat: upload tinymce mods)
   ],
   "dependencies": [],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
+<<<<<<< HEAD
   "readme": "https://github.com/arcanistzed/NAME/blob/main/README.md",
   "changelog": "https://github.com/arcanistzed/NAME/blob/main/CHANGELOG.md",
   "license": "https://github.com/arcanistzed/NAME/blob/main/LICENSE",
   "bugs": "https://github.com/arcanistzed/NAME/issues/new/choose",
+=======
+  "readme": "https://github.com/arcanistzed/wst/blob/main/README.md",
+  "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
+  "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
+  "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
+>>>>>>> 0222a82 (feat: upload tinymce mods)
   "media": []
 }
