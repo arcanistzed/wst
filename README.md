@@ -23,7 +23,7 @@ In the setup screen, use the URL `https://github.com/arcanistzed/NAME/releases/l
 
 ![Version](https://img.shields.io/github/v/tag/arcanistzed/wst?label=Version&style=flat-square&color=2577a1) ![Latest Release Download Count](https://img.shields.io/github/downloads/arcanistzed/wst/latest/module.zip?label=Downloads&style=flat-square&color=9b43a8) ![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/arcanistzed/wst/main/module.json&style=flat-square&color=ff6400) [![Discord Server](https://img.shields.io/badge/-Discord-%232c2f33?style=flat-square&logo=discord)](https://discord.gg/AAkZWWqVav) [![Patreon](https://img.shields.io/badge/-Patreon-%23141518?style=flat-square&logo=patreon)](https://www.patreon.com/bePatron?u=15896855)
 
-A toolkit for use in World Smiths products
+A toolkit for use in World Smiths products. This module currently only extends the TinyMCE editor to add Find-and-Replace, Templates for sidebars & conversion notes, and various blocks for making parts of your content stand out.
 
 ## Installation
 
