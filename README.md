@@ -31,7 +31,7 @@ In the setup screen, use the URL `https://github.com/arcanistzed/wst/releases/la
 
 ## Usage
 
-Copy the [CSS file](./styles/ws.css) into your package and it to the manifest:
+Copy the [CSS file](./styles/ws.css) and [logo](./styles/ws.svg) into your package and the style into the manifest:
 
 ```json
 "styles": [

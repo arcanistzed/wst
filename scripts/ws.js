@@ -21,7 +21,7 @@ Hooks.on("ready", () => {
         {
             title: 'Note',
             description: 'A World Smiths note',
-            content: '<section class="ws-block note"><img src="worlds/the-sky-isles/ws.svg" width="48" /> <div class="contents"><h3></h3><p class="ws-contents">{$contents}</p></div></section>'
+            content: `<section class="ws-block note"><img src="worlds/${game.world.data.name}/styles/ws.svg" width="48" /> <div class="contents"><h3></h3><p class="ws-contents">{$contents}</p></div></section>`
         });
     CONFIG.TinyMCE.content_css.push('modules/wst/styles/ws.css');
 });
