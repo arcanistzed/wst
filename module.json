@@ -37,5 +37,11 @@
   "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
   "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
   "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
-  "media": []
+  "media": [
+    {
+      "type": "screenshot",
+      "url": "https://cdn.discordapp.com/attachments/857375374722990110/902636926861979648/unknown.png",
+      "caption": "A fancy sidebar in a Journal Entry"
+    }
+  ]
 }
