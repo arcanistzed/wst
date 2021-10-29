@@ -1,0 +1,44 @@
+{
+  "name": "NAME",
+  "title": " ",
+  "description": " ",
+  "version": "This is auto replaced",
+  "manifestPlusVersion": "1.2.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": 9,
+  "author": "arcanist",
+  "authors": [
+    {
+      "name": "arcanist",
+      "url": "https://arcanistzed.github.io/",
+      "email": "arcanistzed@gmail.com",
+      "discord": "arcanist#4317",
+      "reddit": "u/arcanistzed"
+    }
+  ],
+  "scripts": [
+    "scripts/module.js"
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": [],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "readme": "https://github.com/arcanistzed/NAME/blob/main/README.md",
+  "changelog": "https://github.com/arcanistzed/NAME/blob/main/CHANGELOG.md",
+  "license": "https://github.com/arcanistzed/NAME/blob/main/LICENSE",
+  "bugs": "https://github.com/arcanistzed/NAME/issues/new/choose",
+  "media": []
+}
