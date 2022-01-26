@@ -2,10 +2,6 @@
   "name": "wst",
   "title": "World Smiths Toolkit",
   "description": "A toolkit for use in World Smiths products",
-  "version": "This is auto replaced",
-  "manifestPlusVersion": "1.2.0",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": 9,
   "author": "Arcanist",
   "authors": [
     {
@@ -16,20 +12,26 @@
       "reddit": "u/arcanistzed"
     }
   ],
-  "scripts": [
+  "url": "This is auto replaced",
+  "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
+  "readme": "https://github.com/arcanistzed/wst/blob/main/README.md",
+  "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
+  "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
+  "flags": {
+    "allowBugReporter": true
+  },
+  "version": "This is auto replaced",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": 9,
+  "esmodules": [
     "scripts/ws.js"
   ],
   "styles": [
     "styles/ws.css"
   ],
-  "dependencies": [],
-  "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "https://github.com/arcanistzed/wst/blob/main/README.md",
-  "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
-  "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
-  "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
+  "manifestPlusVersion": "1.2.0",
   "media": [
     {
       "type": "screenshot",
