@@ -101,6 +101,6 @@ body:
     id: modules
     attributes:
       label: Modules Disabled
-      description: Many issues are the result of incompatibilities with other active modules.
+      description: A lot of the time issues arise because of incompatibilities with other active modules.
       options:
         - label: I can confirm that disabling all of my other modules doesn't fix this issue.  
