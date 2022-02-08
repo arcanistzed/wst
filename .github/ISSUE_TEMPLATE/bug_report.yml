@@ -55,7 +55,7 @@ body:
     attributes:
       label: Version
       description: Which version of this module are you seeing the problem on?
-      placeholder: 0.1.0
+      placeholder: "0.1.0"
     validations:
       required: true
   - type: input
@@ -63,7 +63,7 @@ body:
     attributes:
       label: Foundry VTT Version
       description: Which version and build of Foundry VTT are you seeing the problem on?
-      placeholder: 9.249
+      placeholder: "9.249"
     validations:
       required: true
   - type: input
