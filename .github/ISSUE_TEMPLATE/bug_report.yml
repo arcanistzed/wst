@@ -7,12 +7,10 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+      value:  "Thanks for taking the time to fill out this bug report!"
   - type: markdown
     attributes:
-      value: |
-        ## Issue Description
+      value: "## Issue Description"
   - type: textarea
     id: expected
     attributes:
