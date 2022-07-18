@@ -1,46 +1,46 @@
 {
-  "id": "wst",
-  "name": "wst",
-  "title": "World Smiths Toolkit",
-  "description": "A toolkit for use in World Smiths products",
-  "authors": [
-    {
-      "name": "Arcanist",
-      "url": "https://arcanist.me",
-      "email": "arcanistzed@gmail.com",
-      "discord": "arcanist#4317",
-      "reddit": "u/arcanistzed"
-    }
-  ],
-  "url": "This is auto replaced",
-  "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
-  "readme": "https://github.com/arcanistzed/wst/blob/main/README.md",
-  "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
-  "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
-  "flags": {
-    "allowBugReporter": true
-  },
-  "version": "This is auto replaced",
-  "compatibility": {
-    "minimum": "0.7.9",
-    "verified": "10"
-  },
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "10",
-  "esmodules": [
-    "scripts/tinymce.js"
-  ],
-  "styles": [
-    "styles/ws.css"
-  ],
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "manifestPlusVersion": "1.2.0",
-  "media": [
-    {
-      "type": "screenshot",
-      "url": "https://cdn.discordapp.com/attachments/857375374722990110/902636926861979648/unknown.png",
-      "caption": "A fancy sidebar in a Journal Entry"
-    }
-  ]
+    "id": "wst",
+    "name": "wst",
+    "title": "World Smiths Toolkit",
+    "description": "A toolkit for use in World Smiths products",
+    "authors": [
+        {
+            "name": "Arcanist",
+            "url": "https://arcanist.me",
+            "email": "arcanistzed@gmail.com",
+            "discord": "arcanist#4317",
+            "reddit": "u/arcanistzed"
+        }
+    ],
+    "url": "This is auto replaced",
+    "license": "https://github.com/arcanistzed/wst/blob/main/LICENSE",
+    "readme": "https://github.com/arcanistzed/wst/blob/main/README.md",
+    "bugs": "https://github.com/arcanistzed/wst/issues/new/choose",
+    "changelog": "https://github.com/arcanistzed/wst/blob/main/CHANGELOG.md",
+    "flags": {
+        "allowBugReporter": true
+    },
+    "version": "This is auto replaced",
+    "compatibility": {
+        "minimum": "0.7.9",
+        "verified": "10"
+    },
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "10",
+    "esmodules": [
+        "scripts/tinymce.js"
+    ],
+    "styles": [
+        "styles/ws.css"
+    ],
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "manifestPlusVersion": "1.2.0",
+    "media": [
+        {
+            "type": "screenshot",
+            "url": "https://cdn.discordapp.com/attachments/857375374722990110/902636926861979648/unknown.png",
+            "caption": "A fancy sidebar in a Journal Entry"
+        }
+    ]
 }
