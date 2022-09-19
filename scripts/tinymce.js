@@ -11,6 +11,8 @@ Hooks.on("ready", () => {
 			{ title: "Highlight", block: "section", classes: "ws-block ws-highlight", wrapper: true },
 			{ title: "Skill Challenge", block: "section", classes: "ws-block ws-skill-challenge", wrapper: true },
 			{ title: "Box", block: "section", classes: "ws-block ws-box", wrapper: true },
+			{ title: "Sidebar Left", block: "aside", classes: "ws-block ws-sidebar ws-left", wrapper: true },
+			{ title: "Sidebar Right", block: "aside", classes: "ws-block ws-sidebar ws-right", wrapper: true },
 		],
 	});
 	CONFIG.TinyMCE.template_selected_content_classes += " ws-contents";
