@@ -10,7 +10,7 @@ Hooks.on("ready", () => {
 		items: [
 			{ title: "Highlight", block: "section", classes: "ws-block ws-highlight", wrapper: true },
 			{ title: "Skill Challenge", block: "section", classes: "ws-block ws-skill-challenge", wrapper: true },
-			{ title: "Box", block: "section", classes: "ws-block box", wrapper: true },
+			{ title: "Box", block: "section", classes: "ws-block ws-box", wrapper: true },
 		],
 	});
 	CONFIG.TinyMCE.template_selected_content_classes += " ws-contents";
