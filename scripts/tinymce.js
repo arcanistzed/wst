@@ -1,4 +1,4 @@
-const world = game.world.data.name ?? game.world.id;
+const world = game.world.data?.name ?? game.world.id;
 
 Hooks.on("ready", () => {
 	CONFIG.TinyMCE.plugins += " searchreplace visualchars visualblocks textpattern preview template";
