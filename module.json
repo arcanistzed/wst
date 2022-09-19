@@ -30,9 +30,6 @@
     "esmodules": [
         "scripts/tinymce.js"
     ],
-    "styles": [
-        "styles/ws.css"
-    ],
     "manifest": "This is auto replaced",
     "download": "This is auto replaced",
     "manifestPlusVersion": "1.2.0",
